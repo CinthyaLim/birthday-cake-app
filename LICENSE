@@ -1,0 +1,31 @@
+Copyright (c) 2026 Cinthya
+
+You are free to use, copy, modify, and learn from this code, including in
+your own projects, for any noncommercial purpose — as long as you credit me.
+
+Credit means naming me and linking back to this repository, somewhere a
+person can actually find it (a README, an about screen, or the credits of
+whatever you build). Something like:
+
+  Based on "Birthday Baker" by Cinthya
+  https://github.com/CinthyaLim/birthday-cake-app
+
+You may not:
+
+  - sell this code, or anything substantially based on it
+  - distribute it for a fee, or as part of a paid product or service
+  - use it to promote or advertise a commercial product
+  - remove or hide the credit above
+
+If it helped you learn something, that is exactly what it is for.
+
+The artwork, cat animations, and Lottie files in this repository are NOT
+covered by this licence. They belong to their original creators and keep
+their own terms — see the Credits section of the README.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Birthday Baker</string>
+
+    <!-- Mixing page -->
+    <string name="available_ingredients">Available Ingredients:</string>
+    <string name="ingredient_count">(%1$d)</string>
+    <string name="ingredients_added">%1$d/%2$d ingredients added</string>
+    <string name="mix_it">Mix It! 🥄</string>
+    <string name="drag_and_drop">Hold an ingredient, then drag it to the bowl</string>
+
+    <!-- Mini hunt page -->
+    <string name="hunt_moves">Moves: %1$d</string>
+    <string name="hunt_pairs_found">%1$d/%2$d pairs found</string>
+    <string name="cd_hidden_card">Hidden card</string>
+
+    <!-- Final page -->
+    <string name="final_title">✨ Yay! You Made It! ✨</string>
+    <string name="final_message">Happy Birthday to the one who makes every day special 💕</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_character">Character</string>
+    <string name="cd_mixing_bowl">Mixing bowl</string>
+    <string name="cd_birthday_cake">Birthday cake</string>
+    <string name="cd_dialog_tail">Speech bubble</string>
+    <string name="cd_dialog_continue">Tap to continue</string>
+
+    <!-- Ingredient names -->
+    <string name="ingredient_heart">Hearts</string>
+    <string name="ingredient_smile">Smiles</string>
+    <string name="ingredient_sparkle">Sparkles</string>
+    <string name="ingredient_chocolate">Chocolate</string>
+    <string name="ingredient_rainbow">Rainbow</string>
+    <string name="ingredient_ribbon">Ribbon</string>
+
+    <!-- What each ingredient stands for, shown muted on the right of a recipe row -->
+    <string name="flavour_heart">Love</string>
+    <string name="flavour_smile">Happiness</string>
+    <string name="flavour_sparkle">Magic</string>
+    <string name="flavour_chocolate">Sweetness</string>
+    <string name="flavour_rainbow">Color</string>
+    <string name="flavour_ribbon">Decoration</string>
+
+    <!-- Dialog: INTRO -->
+    <string name="intro_sleep">...</string>
+    <string name="intro_ask">\?\?\?</string>
+    <string name="intro_hello">Oh, hello!</string>
+    <string name="intro_who">Hi and welcome! I mostly nap on this counter.</string>
+    <string name="intro_thinking">Come to think of it… [[what day is it today?]]</string>
+    <!-- [[ ]] marks the run that sits on a pink highlight -->
+    <string name="intro_today_header">Oh no! My boyfriend\'s birthday is [[TODAY]]!</string>
+    <string name="intro_today_desc">Can you help me make a cake? 🍰</string>
+    <string name="intro_today_button">Help Me! 💗</string>
+
+    <!-- Dialog: RECIPE -->
+    <string name="recipe_title">🎂 BIRTHDAY CAKE 🎂</string>
+    <string name="recipe_needed">Ingredients Needed:</string>
+    <string name="recipe_amount">%1$dx</string>
+    <string name="recipe_button">Check the Pantry 🥣</string>
+    <string name="recipe_footnote">Every ingredient is a little piece of him 💗</string>
+
+    <!-- Dialog: RAN_OUT -->
+    <string name="ran_out_header">Oh no… we ran out of ingredients! 🥺</string>
+    <string name="ran_out_desc">The pantry is completely empty. We have to search for every single one before we can start baking!</string>
+    <string name="ran_out_button">Let\'s Hunt! 🔍</string>
+    <string name="ran_out_footnote">Flip the cards to find hidden ingredients</string>
+
+    <!-- Dialog: HUNT_WON -->
+    <string name="hunt_won_yay">Yay!! you are so capable!! 💗</string>
+    <string name="hunt_won_header">That\'s everything! 🎉</string>
+    <string name="hunt_won_desc">All %1$d ingredients are back in the pantry. Let\'s get mixing!</string>
+    <string name="hunt_won_button">To the Bowl 🥣</string>
+
+    <!-- Dialog: FINALE -->
+    <string name="finale_header">Look at it! 😻</string>
+    <string name="finale_ask">Do you know who this cake is for?</string>
+    <string name="finale_for_header">For the one who makes every day feel like a birthday.\nFor [[you]]. Always ✨you✨.</string>
+    <string name="finale_every">Every ingredient here represents how much I love you 💕</string>
+    <string name="finale_happy">[[Happy Birthday, My Love]] 💕🎂</string>
+
+
+    <!-- Pantry panel -->
+    <string name="pantry_title">PANTRY</string>
+    <string name="pantry_stock">%1$d/%2$d in stock</string>
+    <string name="pantry_slot_count">%1$d/%2$d</string>
+</resources>
